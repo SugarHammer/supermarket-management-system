@@ -1,5 +1,5 @@
 # 超市管理系统(数据库加VX获取☟)
-
+> - 薇：13033494971
 #### 介绍
 基于SSM的超市管理系统（含进销存出入库）
 有BUG可留言加微
@@ -51,6 +51,6 @@ Java + SSM（Spring + SpringMVC + Mybatis） + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql
 
 ## 有项目修改、安装调试需求 请联系微信
-![输入图片说明](photo/0-WeChat.png)
+> - 薇：13033494971
 
 ## 其他项目定制加微☝☝☝
